@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Claude Code internal
+.claude/
+
+# Logs / temp
+*.log
+*.tmp
+
+# PHP config with sensitive data (copy from config/database.example.php)
+# config/database.php
